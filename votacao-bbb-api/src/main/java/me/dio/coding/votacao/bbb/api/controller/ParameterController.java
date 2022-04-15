@@ -37,5 +37,5 @@ public class ParameterController {
 		}
 		return ResponseEntity.ok(optParameter.get());
 	}
-	
+	 
 }
